@@ -1,5 +1,5 @@
-# test
-3
+# Delta test repo
 
+Dont close any prs without thinking first :)
 
-open close reopen merge
+in this pr i was testing additions and deletions
