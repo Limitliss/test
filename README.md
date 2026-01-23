@@ -3,3 +3,6 @@
 Dont close any prs without thinking first :)
 
 in this pr i was testing additions and deletions
+
+
+null the body after with intial information
